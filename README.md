@@ -4,7 +4,8 @@
 
 Coisas pessoais:
 
-- 📚 Atualmente aprendendo JavaScript & TypeScript.
+- 📚 Atualmente aprendendo JavaScript, TypeScript, React, MongoDB e mySQL.
 - 🔍 Interessado em seguir como programador e aprender cada vez mais.
 - 🚀 Tentando sempre ser melhor.
 - 🌌 Amo de estudar programação.
+- 📝 Em busca de um Estágio
