@@ -6,11 +6,11 @@
 - ⭐️ Fun fact: I am 17 years old
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dreynus&theme=midnight-purple&cache_seconds=1400&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dreynus&theme=midnight-purple&cache_seconds=1400&locale=en" />
 </div>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple&cache_seconds=1400&locale=pt-br" width="493px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple&cache_seconds=1400&locale=en" width="493px" />
 </div>
 
 
