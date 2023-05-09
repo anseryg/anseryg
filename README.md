@@ -32,9 +32,9 @@
 ##
 
 <div>
-  <a href="https://dreynus.github.io/d.santos"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_d.santo.s/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:contatogabrieldsantos@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://dreynus.github.io/d.santos" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_d.santo.s/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:contatogabrieldsantos@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </div> </br>
 
 [![wakatime](https://wakatime.com/badge/user/62e4fd6d-b2cd-42d8-919b-6e0db4af0afc.svg)](https://wakatime.com/@62e4fd6d-b2cd-42d8-919b-6e0db4af0afc)
