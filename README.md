@@ -1,11 +1,32 @@
-### Olá, sou Dreynus 👋
+<h2>Hi! I'm Gabriel D. Santos</h1>
 
-<img align="right" alt="GIF" height="125px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkyZmE1MWI4NWM4NmI0ZDE5N2NlOGExNGY1MzU1NzNiMzE4ZTg4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/hS42TuYYnANLFR9IRQ/giphy.webp" />
+- 🚀 Developer in constant evolution
+- 🌎 I am Brazilian
+- ⭐️ Fun fact: I am 17 years old
 
-Coisas pessoais:
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreynus&theme=midnight-purple" />
+</div>
 
-- 📚 Atualmente aprendendo JavaScript, TypeScript, React, MongoDB e mySQL.
-- 🔍 Interessado em seguir como programador e aprender cada vez mais.
-- 🚀 Tentando sempre ser melhor.
-- 🌌 Amo de estudar programação.
-- 📝 Em busca de um Estágio
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dreynus&repo=d.santos&theme=midnight-purple" />
+</div>
+
+</br></br></br></br>
+
+<div style="display: block"></br>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Dreynus" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Dreynus" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Dreynus" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Dreynus" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Dreynus" height="30" width="40"/>
+</div>
+
+##
+
+<div>
+  <a href="https://www.instagram.com/_d.santo.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+
