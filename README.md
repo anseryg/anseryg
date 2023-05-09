@@ -5,15 +5,13 @@
 - ⭐️ Fun fact: I am 17 years old
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreynus&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple&cache_seconds=1400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreynus&theme=midnight-purple&cache_seconds=1400" />
 </div>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dreynus&repo=d.santos&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreynus&repo=d.santos&theme=midnight-purple&cache_seconds=1400" />
 </div>
-
-</br></br></br></br>
 
 <div style="display: block"></br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Dreynus" height="30" width="40"/>
