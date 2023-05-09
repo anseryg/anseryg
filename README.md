@@ -6,18 +6,16 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dreynus&theme=midnight-purple&cache_seconds=1400&locale=pt-br" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple&cache_seconds=1400&locale=pt-br" /> -->
 </div>
-
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple&cache_seconds=1400&locale=pt-br" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreynus&theme=midnight-purple&cache_seconds=1400&locale=pt-br&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreynus&show_icons=true&theme=midnight-purple&cache_seconds=1400&locale=pt-br" width="493px" />
 </div>
 
 
+##
 
-<h3>Portfolio:</h3>
+
 <div>
   <a href="https://github.com/dreynus/d.santos"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreynus&repo=d.santos&theme=midnight-purple&cache_seconds=1400" /></a>
 </div>
