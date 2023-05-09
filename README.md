@@ -1,6 +1,7 @@
 <h2>Hi! I'm Gabriel D. Santos</h1>
 
 - 🚀 Developer in constant evolution
+- 📚 Learning JavaScript, TypeScript & React
 - 🌎 I am Brazilian
 - ⭐️ Fun fact: I am 17 years old
 
