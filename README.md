@@ -27,4 +27,6 @@
   <a href="https://www.instagram.com/_d.santo.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/62e4fd6d-b2cd-42d8-919b-6e0db4af0afc.svg)](https://wakatime.com/@62e4fd6d-b2cd-42d8-919b-6e0db4af0afc)
+
 
