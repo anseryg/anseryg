@@ -6,7 +6,7 @@
 - ⭐️ Fun fact: I am 17 years old
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=g-undefined&theme=midnight-purple&cache_seconds=1400&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dreynus&theme=midnight-purple&cache_seconds=1400&locale=en" />
 </div>
 
 <div>
