@@ -1,5 +1,3 @@
-<h2>Hi! I'm Gabriel D. Santos</h1>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dreynus&theme=midnight-purple&cache_seconds=1400&locale=en" />
 </div>
@@ -13,7 +11,7 @@
 
 
 <div>
-  <a href="https://github.com/anseryg/fgengenharia-solar"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anseryg&repo=fgengenharia-solar&theme=midnight-purple&cache_seconds=1400" /></a>
+  <a href="https://github.com/anseryg/whatsapp-bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anseryg&repo=whatsapp-bot&theme=midnight-purple&cache_seconds=1400" /></a>
 </div>
 
 <div style="display: block"></br>
