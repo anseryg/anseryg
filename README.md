@@ -1,15 +1,11 @@
 <h2>Hi! I'm Gabriel D. Santos</h1>
 
-- 🚀 Developer in constant evolution
-- 📚 Learning JavaScript, TypeScript & React
-- 🌎 I am Brazilian
-
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dreynus&theme=midnight-purple&cache_seconds=1400&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dreynus&theme=neon&cache_seconds=1400&locale=en" />
 </div>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anseryg&theme=midnight-purple&layout=compact" width="325px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anseryg&theme=neon&layout=compact" width="325px" />
 </div>
 
 
@@ -17,7 +13,7 @@
 
 
 <div>
-  <a href="https://github.com/anseryg/fgengenharia-solar"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anseryg&repo=fgengenharia-solar&theme=midnight-purple&cache_seconds=1400" /></a>
+  <a href="https://github.com/anseryg/fgengenharia-solar"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anseryg&repo=fgengenharia-solar&theme=neon&cache_seconds=1400" /></a>
 </div>
 
 <div style="display: block"></br>
